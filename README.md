@@ -1,6 +1,6 @@
 # 🧼 Image Denoising using Convolutional Autoencoder
 
-![Image Denoising Preview](preview_denoising.png)
+![Image Denoising Preview](./preview_denoising.png)
 
 This project focuses on developing a **Deep Learning Autoencoder** to remove **Gaussian noise** from images.  
 The goal is to train a neural network capable of restoring clean images from noisy inputs, demonstrating how autoencoders can be applied for **image enhancement and reconstruction** in real-world computer vision tasks.
