@@ -1,4 +1,4 @@
-# 🧼 Image Denoising using Convolutional Autoencoder
+# 🦪 Image Denoising using Convolutional Autoencoder
 
 ![Image Denoising Preview](./preview_denoising.png)
 
@@ -74,7 +74,7 @@ This modified design enables the model to better retain structural and textural 
 
 ### 🔹 Structural Similarity Index (SSIM)
 
-![SSIM](./results/ssim_model.png)
+![SSIM](./ssim_model.png)
 
 **Analysis:**
 - The **baseline model** struggled to reconstruct fine details, with significant loss of structure and clarity.  
@@ -82,7 +82,7 @@ This modified design enables the model to better retain structural and textural 
 
 ### 🖼️ Visual Comparison
 
-![Visual](./results/visual_denoise.png)
+![Visual](./visual_denoise.png)
 
 > The modified autoencoder produced visually cleaner, sharper images, effectively suppressing Gaussian noise while maintaining object boundaries.
 
