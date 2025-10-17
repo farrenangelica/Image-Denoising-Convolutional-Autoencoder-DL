@@ -34,9 +34,9 @@ To simulate noisy data, Gaussian noise was artificially added using: np.random.n
 ## 🔍 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand the image characteristics before training:
-- **Histogram analysis** — Checked pixel intensity distributions to identify brightness and contrast ranges.  
-- **Image visualization** — Observed texture, lighting uniformity, and structure of the shell object.  
-- **Noise simulation** — Applied Gaussian noise to verify realism and complexity of generated noisy data.
+- **Histogram analysis**: Checked pixel intensity distributions to identify brightness and contrast ranges.  
+- **Image visualization**: Observed texture, lighting uniformity, and structure of the shell object.  
+- **Noise simulation**: Applied Gaussian noise to verify realism and complexity of generated noisy data.
 
 > EDA ensures that the preprocessing pipeline and model architecture are well-suited to the image characteristics and noise type.
 
